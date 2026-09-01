@@ -1,0 +1,32 @@
+[
+  {
+    "file": "chu-han-don-tu/乘/01-乘坐.webp",
+    "zh": "乘坐",
+    "pinyin": "chéngzuò",
+    "vi": "ngồi xe"
+  },
+  {
+    "file": "chu-han-don-tu/乘/02-乘橇滑行.webp",
+    "zh": "乘橇滑行",
+    "pinyin": "chéngqiāohuáxíng",
+    "vi": "trượt xe trượt"
+  },
+  {
+    "file": "chu-han-don-tu/乘/03-乘车.webp",
+    "zh": "乘车",
+    "pinyin": "chéngchē",
+    "vi": "đi xe"
+  },
+  {
+    "file": "chu-han-don-tu/乘/04-换乘.webp",
+    "zh": "换乘",
+    "pinyin": "huànchéng",
+    "vi": "chuyển tuyến"
+  },
+  {
+    "file": "chu-han-don-tu/乘/05-搭乘.webp",
+    "zh": "搭乘",
+    "pinyin": "dāchéng",
+    "vi": "đáp"
+  }
+]

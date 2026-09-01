@@ -1,0 +1,20 @@
+[
+  {
+    "file": "chu-han-don-tu/帽/01-礼帽.webp",
+    "zh": "礼帽",
+    "pinyin": "lǐmào",
+    "vi": "mũ lễ / mũ chóp"
+  },
+  {
+    "file": "chu-han-don-tu/帽/02-遮阳帽.webp",
+    "zh": "遮阳帽",
+    "pinyin": "zhēyángmào",
+    "vi": "mũ chống nắng"
+  },
+  {
+    "file": "chu-han-don-tu/帽/03-风帽.webp",
+    "zh": "风帽",
+    "pinyin": "fēngmào",
+    "vi": "mũ trùm đầu / mũ chống gió"
+  }
+]

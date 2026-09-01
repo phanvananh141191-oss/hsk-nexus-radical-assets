@@ -1,0 +1,20 @@
+[
+  {
+    "file": "chu-han-don-tu/病/01-产科病房.webp",
+    "zh": "产科病房",
+    "pinyin": "chǎnkēbìngfáng",
+    "vi": "phòng sản"
+  },
+  {
+    "file": "chu-han-don-tu/病/02-加护病房.webp",
+    "zh": "加护病房",
+    "pinyin": "jiāhùbìngfáng",
+    "vi": "phòng ICU"
+  },
+  {
+    "file": "chu-han-don-tu/病/03-移动病床.webp",
+    "zh": "移动病床",
+    "pinyin": "yídòngbìngchuáng",
+    "vi": "giường bệnh di động"
+  }
+]
